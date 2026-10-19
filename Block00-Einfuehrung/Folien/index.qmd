@@ -1,13 +1,13 @@
 ---
 title: "VL Forschungsmethoden"
 subtitle: "Einführung in qualitative und quantitative Forschungsmethoden"
-author: "Samuel Merk & Cora Parrisius"
+author: "Cora Parrisius"
 
 date: today
 date-format: "[Sommersemester] YYYY"
 
 logo: img/ph-logo.svg
-footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter ogy.de/mvl-sose-2026
+footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter t1p.de/mvl-wise-2627
 
 format: 
   revealjs:
@@ -100,39 +100,6 @@ figure>figcaption {
   background-color: #8CD00000;
 }
   
-```
-
-
-## <!--Mit wem haben Sie es zu tun?--> {.center}
-### [{{< fa chalkboard-teacher >}}]{.imp} Samuel Merk 
-<br> 
-
-```{r, echo = F, warning=FALSE}
-library(timevis)
-data <- data.frame(
-  id      = 1:4,
-  content = c("Item one", "Item two",
-              "Ranged item", "Item four"),
-  start   = c("2016-01-10", "2016-01-11",
-              "2016-01-20", "2016-02-14 15:00:00"),
-  end     = c(NA, NA, "2016-02-04", NA)
-)
-
-data <- data.frame(
-  #id      = 1:4,
-  content = c("Erstes SE"  ,"Zweites SE",
-              "Promotion", "Jun. Prof. TÜ", "Jun. Prof. KA", "Prof. KA",
-              "Geschwister-Scholl-Schule Tübingen"),
-  start   = c("2010-01-10", "2011-06-11", "2016-07-10", 
-              "2017-04-01", "2020-04-01", "2023-04-01", "2010-02-01"),
-  end     = c(rep(NA, 6), "2016-07-31")
-)
-
-timevis(data, 
-        loadDependencies = F, 
-        showZoom = F,
-        fit = T,
-        height = "400px")
 ```
 
 
@@ -426,7 +393,7 @@ Bevor Sie mit uns Kontakt aufnehmen, fragen Sie sich bitte kurz:
 
 Folien:
 
-![https://ogy.de/mvl-sose-2026](img/QR Code ogy-de-mvl-sose-2026.png){width=50%}
+![https://t1p.de/mvl-wise-2627](img/QR Code t1p-de-mvl-wise-2627.png){width=50%}
 :::
 
 :::
@@ -434,16 +401,17 @@ Folien:
 
 ## Tutorien {.smaller}
 
-* Mo 8 - 9:30, Raum 3.110, Nilani Suriakumar
-* Mi 8 - 9:30, Raum 1.203, Ruben Rothenhäusler
-* Do 12 - 13:30, Raum 1.013, Ruben Rothenhäusler
-* Do 12 - 13:30, Raum 1.113, Lisa Mayer
-* Fr 10 - 11:30, Raum 1.203, Ronja Barth
+```{r}
+#* Mo 8 - 9:30, Raum 3.110, Nilani Suriakumar
+#* Mi 8 - 9:30, Raum 1.203, Ruben Rothenhäusler
+#* Do 12 - 13:30, Raum 1.013, Ruben Rothenhäusler
+#* Do 12 - 13:30, Raum 1.113, Lisa Mayer
+#* Fr 10 - 11:30, Raum 1.203, Ronja Barth
 
-Siehe auch hier: [https://ogy.de/mvl-sose26-tutorien](https://ogy.de/mvl-sose26-tutorien)
+#Siehe auch InnovationSpace-Kurs: #[https://t1p.de/mvl-wise2627-tutorien](https://t1p.de/mvl-wise2627-tut#orien)
+```
 
-InnovationSpace-Kurs: [https://innovationspace.ph-karlsruhe.de/course/view.php?id=717](https://innovationspace.ph-karlsruhe.de/course/view.php?id=717)
-
+Tutorien starten kommende Woche. Termine werden bekannt gegeben, sobald dies unter den aktuellen Umständen (Wegfall LSF) möglich ist.
 
 ## Studienleistung: Versuchspersonenstunden {.smaller}
 
@@ -480,12 +448,12 @@ Die Teilnahme an wissenschaftlichen Studien ermöglicht Ihnen, Forschung aus Tei
    * Closed Book, Bring Your Own Device, 10 Minuten Dauer.
    * Teilklausuren decken jeweils einen Themenblock ab, der auch in der Hauptklausur geprüft wird
    * Es können 10 Punkte je Teilklausur erreicht werden. Als Anreiz, **auch** nach erfolgreicher Teilklausur noch auf die Hauptklausur zu lernen, werden maximal 8 Punkte (entspricht der Note "gut") verbucht
-   * Termine: **dienstags 16 Uhr, Hörsäle 1.013 und 1.113**
+   * Termine: **dienstags 8 Uhr, Hörsaal 1.113**
    
-      * 12.05. Teilklausur 1 (Methodologie)
-      * 09.06. Teilklausur 2 (Messen und Beschreiben)
-      * 30.06. Teilklausur 3 (Effektstärken)
-      * 14.07. Teilklausur 4 (Inferenzstatistik)
+      * 10.11.26 Teilklausur 1 (Methodologie)
+      * 01.12.26 Teilklausur 2 (Messen und Beschreiben)
+      * 22.12.26 Teilklausur 3 (Effektstärken)
+      * 19.01.27 Teilklausur 4 (Inferenzstatistik)
 
   
 ## Prinzip der Teilklausuren
@@ -519,6 +487,11 @@ Die Teilnahme an wissenschaftlichen Studien ermöglicht Ihnen, Forschung aus Tei
 
 
 ## Literatur
+
+Teile dieser Präsentation basieren auf: 
+Merk, S., & Parrisius, C. (2026). *Einführung in qualitative und quantitative Forschungsmethoden [Vorlesungsfolien].* PH Karlsruhe. Lizenz: CC BY 4.0
+
+Weitere Referenzen:
 <style>
 div.callout {border-left-color: #267326 !important;
 </style>
