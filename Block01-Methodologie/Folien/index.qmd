@@ -1,13 +1,13 @@
 ---
 title: "VL Forschungsmethoden"
 subtitle: "Einführung in qualitative und quantitative Forschungsmethoden"
-author: "Samuel Merk & Cora Parrisius"
+author: "Cora Parrisius"
 
 date: today
-date-format: "[Sommersemester] YYYY"
+date-format: "[Wintersemester] YYYY"
 
 logo: img/ph-logo.svg
-footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter ogy.de/mvl-sose-2026
+footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter t1p.de/mvl-wise-2627
 
 format: 
   revealjs:
@@ -511,67 +511,16 @@ In Deutschland gibt es vergleichsweise viele und aufwändige deskriptive Trendst
 
 ## Steigerung der internen Validität {.center .smaller}
 
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.fragment fragment-index=1}
+:::{.incremental}
 * Experimentelle Studiendesigns
-
-:::
-
-::: {.fragment fragment-index=2}
-* Längsschnittliche Studiendesigns 
-
-:::
-
-::: {.fragment fragment-index=3}
+* Längsschnittliche Studiendesigns
 * Matching Studien
-
-:::
-
-::: {.fragment fragment-index=4}
 * Laborstudien
-
-:::
-
-::: {.fragment fragment-index=5}
 * Verblindung
-
-:::
-
-::: {.fragment fragment-index=6}
 * Kontroll- und Vergleichsgruppen
-
-:::
-
-::: {.fragment fragment-index=7}
 * Inferenzstatistik
-
-:::
-
-::: {.fragment fragment-index=8}
 * Direkte Replikationsstudien
-
-:::
-
-::: {.fragment fragment-index=9}
 * Präregistrierung
-
-:::
-
-
-:::
-
-
-::: {.column width="50%"}
-
-::: {.fragment .fade-in-then-out fragment-index=3}
-![](img/Matching.png)
-:::
-
-
-:::
 
 :::
 
@@ -662,6 +611,11 @@ ACHTUNG: Die Allermeisten werden zutreffende Beispiele bringen (2,4,6,10,16) abe
 
 
 ## Literatur
+
+Teile dieser Präsentation basieren auf: 
+Merk, S., & Parrisius, C. (2026). *Einführung in qualitative und quantitative Forschungsmethoden [Vorlesungsfolien].* PH Karlsruhe. Lizenz: CC BY 4.0
+
+Weitere Referenzen:
 <style>
 div.callout {border-left-color: #236327 !important;
 </style>
