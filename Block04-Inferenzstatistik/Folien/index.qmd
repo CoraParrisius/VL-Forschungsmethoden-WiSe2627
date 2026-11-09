@@ -1,13 +1,13 @@
 ---
-title: "VL Forschungsmethoden" 
+title: "VL Forschungsmethoden"
 subtitle: "Inferenzstatistik"
-author: "Samuel Merk & Cora Parrisius"
+author: "Cora Parrisius"
 
 date: today
-date-format: "[Sommersemester] YYYY"
+date-format: "[Wintersemester] YYYY"
 
 logo: img/ph-logo.svg
-footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter ogy.de/mvl-sose-2026
+footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter t1p.de/mvl-wise-2627
 
 format: 
   revealjs:
@@ -721,6 +721,10 @@ Da die Daten unter der Annahme von $H_0$ 1000 mal wahrscheinlich sind als unter 
 
 ## Literatur
 
+Teile dieser Präsentation basieren auf: 
+Merk, S., & Parrisius, C. (2026). *Einführung in qualitative und quantitative Forschungsmethoden [Vorlesungsfolien].* PH Karlsruhe. Lizenz: CC BY 4.0
+
+Weitere Referenzen:
 <style>
 div.callout {border-left-color: #267326 !important;
 </style>
