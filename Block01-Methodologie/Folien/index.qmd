@@ -1,6 +1,6 @@
 ---
 title: "VL Forschungsmethoden"
-subtitle: "Einführung in qualitative und quantitative Forschungsmethoden"
+subtitle: "Methodologie"
 author: "Cora Parrisius"
 
 date: today
